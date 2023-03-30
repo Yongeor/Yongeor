@@ -1,11 +1,8 @@
-<hr>
-<h2 align="center">Yongeor!</h2>
-<br>
-<hr>
 <h1 align="center">
   <a href="https://www.cnblogs.com/Yongeor/">
   </a>
   Yongeor!
+  <br>
 </h1>
 
 <div align="center">🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝</div>
