@@ -9,7 +9,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongeor&theme=dark&layout=compact)
 
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
-
 <div align="center">https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343</div>
