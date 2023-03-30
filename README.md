@@ -4,6 +4,11 @@
   </a>
 </h1>
 
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<hr>
+
 <div align="center">🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝</div>
 
 <p align="center">
