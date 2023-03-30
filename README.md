@@ -3,11 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);平杨猪祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
-<div align="center"><🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝/></div>
+<div align="center">🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Yongeor&show_icons=true&theme=dark&count_private=true)
+<div align="center">![Github Stats](https://github-readme-stats.vercel.app/api?username=Yongeor&show_icons=true&theme=dark&count_private=true)</div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongeor&theme=dark&layout=compact)
+<div align="center">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongeor&theme=dark&layout=compact)</div>
 
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
