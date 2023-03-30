@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://www.cnblogs.com/Yongeor/">
-  </a>
-  Yongeor!
+  <a href="https://www.cnblogs.com/Yongeor/" title="Blog">Yongeor!</a>
   <br>
 </h1>
 
