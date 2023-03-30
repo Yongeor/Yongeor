@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="[https://sunguoqi.com/](https://www.cnblogs.com/Yongeor/)">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);平杨猪祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Yongeor!&center=true&size=27">
   </a>
 </h1>
 <div align="center">🌑🌒🌓🌔🌕🌖🌗🌘🌙🌚🌛🌜🌝</div>
@@ -12,8 +12,8 @@
 
 - 🌱 My nickname is **Ping YangZhu**
 - 💬 Ask me about U3D, 3D, C# and my projects
-- 📫 How to reach me: (https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343)  **Leave me a message**
-- 😄 You may like [My CSDN](https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343),[Blog](https://www.cnblogs.com/Yongeor/)
+- 📫 How to reach me: [My CSDN](https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343)  **Leave me a message**
+- 😄 You may like [My CSDN](https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343), [Blog](https://www.cnblogs.com/Yongeor/)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Yongeor/count.svg)
