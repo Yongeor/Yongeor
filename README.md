@@ -1,6 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=geekswg.geekswg">
+ 
 <h1 align="center">
-  <a href="(https://www.cnblogs.com/Yongeor/)">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Yongeor!&center=true&size=35">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -17,12 +19,8 @@
 - 📫 How to reach me: [My CSDN](https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343)  **Leave me a message**.
 - 😄 You may like [My CSDN](https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343), [Blog](https://www.cnblogs.com/Yongeor/).
 
-
 ![Visitor Count](https://profile-counter.glitch.me/Yongeor/count.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yongeor&show_icons=true&theme=dark&count_private=true)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongeor&theme=dark&layout=compact)
 
-
-<div align="center">https://blog.csdn.net/weixin_48388330?spm=1000.2115.3001.5343</div>
